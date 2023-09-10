@@ -1,1 +1,1 @@
-# math-for-ml-and-ds-openai
+Collection of notebooks(.ipynb) from Mathematics for Machine Learning and Data Science OpenAI Course at Coursera
